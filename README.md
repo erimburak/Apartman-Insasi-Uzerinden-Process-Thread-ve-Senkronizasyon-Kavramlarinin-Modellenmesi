@@ -12,17 +12,18 @@ Bu projede, çok katlı bir apartman inşaatı simülasyonu üzerinden işletim 
 
 ## 📁 Klasör/Dosya Yapısı
 
+``plaintext
 isletimSistemiProje/
-├── isletimSistemiProje.cbp # Code::Blocks proje dosyası
-├── isletimSistemiProje.layout # IDE yerleşim dosyası
-├── main.c # C kaynak dosyası (ana kod)
-├── simulasyon # Derlenmiş yürütülebilir dosya (Linux)
-├── bin/
-│ └── Debug/
-│ └── isletimSistemiProje # Windows exe
-├── obj/
-│ └── Debug/
-│ └── main.o # Derlenmiş obje dosyası
+├── isletimSistemiProje.cbp         # Code::Blocks proje dosyası  
+├── isletimSistemiProje.layout      # IDE yerleşim dosyası  
+├── main.c                          # C kaynak dosyası (ana kod)  
+├── simulasyon                      # Derlenmiş yürütülebilir dosya (Linux)  
+├── bin/  
+│   └── Debug/  
+│       └── isletimSistemiProje     # Windows exe  
+└── obj/  
+    └── Debug/  
+        └── main.o                  # Derlenmiş obje dosyası  
 
 
 ---
