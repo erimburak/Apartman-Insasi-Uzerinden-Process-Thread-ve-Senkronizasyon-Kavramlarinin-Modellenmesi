@@ -1,0 +1,1 @@
+# Apartman-Insasi-Uzerinden-Process-Thread-ve-Senkronizasyon-Kavramlarinin-Modellenmesi
