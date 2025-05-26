@@ -108,7 +108,7 @@ isletimSistemiProje/
 
 ## 🖥️ Örnek Program Çıktısı
 
-```shell
+shell
 [KAT 1] İnşaat başlıyor...
 [KAT 1 - DAİRE 1] Kaba inşaat tamamlandı...
 [KAT 1 - DAİRE 2] Vinç bekleniyor...
@@ -116,3 +116,24 @@ isletimSistemiProje/
 ...
 [KAT 10] Tamamlandı!
 [BAHÇE] Peyzaj tamamlandı. Bina teslim edildi.
+---
+
+## 📚 Kaynaklar
+
+- A. S. Tanenbaum, *Modern İşletim Sistemleri*, Pearson, 2016.
+- A. Silberschatz, *İşletim Sistemi Kavramları*, Wiley, 2014.
+- [GeeksforGeeks – Mutex vs Semaphore](https://www.geeksforgeeks.org/mutex-vs-semaphore/)
+- [Bilgisayar Kavramları – POSIX Thread Programlama](https://bilgisayarkavramlari.com/2012/02/29/posix-thread-programlama-pthread/)
+- [Açık Ders – İşletim Sistemlerine Giriş](https://acikders.ankara.edu.tr/course/view.php?id=5266)
+
+---
+
+## 💡 Katkı
+
+Kat/daire sayısı parametreli yapılabilir, yeni olaylar eklenebilir. PR ve issue’lara açıktır.
+
+---
+
+## 📝 Lisans
+
+Bu proje eğitim ve akademik kullanım içindir.
