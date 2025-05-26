@@ -10,9 +10,11 @@ Bu projede, çok katlı bir apartman inşaatı simülasyonu üzerinden işletim 
 
 ---
 
+
 ## 📁 Klasör/Dosya Yapısı
 
 isletimSistemiProje/
+
 ├── isletimSistemiProje.cbp         # Code::Blocks proje dosyası  
 ├── isletimSistemiProje.layout      # IDE yerleşim dosyası  
 ├── main.c                          # C kaynak dosyası (ana kod)  
