@@ -108,15 +108,8 @@ isletimSistemiProje/
 
 ## 🖥️ Örnek Program Çıktısı
 
-shell
-[KAT 1] İnşaat başlıyor...
-[KAT 1 - DAİRE 1] Kaba inşaat tamamlandı...
-[KAT 1 - DAİRE 2] Vinç bekleniyor...
-[YANGIN] Kat 1'de yangın! 3 saniye gecikme.
-...
-[KAT 10] Tamamlandı!
-[BAHÇE] Peyzaj tamamlandı. Bina teslim edildi.
----
+![2](https://github.com/user-attachments/assets/0104324c-34b6-4ab3-9891-f3274df82255)
+
 
 ## 📚 Kaynaklar
 
