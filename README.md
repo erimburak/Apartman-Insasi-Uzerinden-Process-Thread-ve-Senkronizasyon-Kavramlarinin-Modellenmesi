@@ -31,8 +31,7 @@ isletimSistemiProje/
 
 ## ⚙️ Kurulum ve Çalıştırma
 
-> **Not:** Proje Linux tabanlı sistemde sorunsuz çalışır.  
-> Windows’ta Code::Blocks veya başka bir C IDE’si ile açıp derleyebilirsiniz.
+> **Not:** Proje Linux tabanlı sistemde sorunsuz çalışır. Windows tabanlı sistemlerde online compiler kullanarak çalıştarabilirsiniz.
 
 ### Terminalden Derleme ve Çalıştırma (Linux)
 
