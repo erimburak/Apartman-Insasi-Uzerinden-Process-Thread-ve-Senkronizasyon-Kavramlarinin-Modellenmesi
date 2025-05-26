@@ -34,12 +34,6 @@ isletimSistemiProje/
 
 ### Terminalden Derleme ve Çalıştırma (Linux)
 
-```bash
-gcc -o simulasyon main.c -lpthread
-./simulasyon
-
----
-
 ## ⚙️ Kurulum ve Çalıştırma
 
 1. **Gerekli Kurulumlar:**  
